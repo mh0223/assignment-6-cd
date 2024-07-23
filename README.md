@@ -16,7 +16,7 @@
 -  **배포 파이프라인 구성**: CI 도구와 CD 도구를 연동하여 자동화된 배포 파이프라인을 구성합니다.
 -  **모니터링 및 알림 설정**: 배포 후 성능을 모니터링하고 이슈 발생 시 알림을 받을 수 있도록 설정합니다.
 
-## 🛠 GIT ACTION + AWS
+## 🛠 GITHUB ACTIONS + AWS
 ![Blank diagram](https://github.com/user-attachments/assets/b4dd162c-5cc7-4ba7-ab45-73bc25688196)
 
 1. Next.js 프로젝트를 만듭니다.
