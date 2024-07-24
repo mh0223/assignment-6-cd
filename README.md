@@ -47,4 +47,5 @@ S3 버킷에 새로운 파일을 업로드하면 CloudFront는 여전히 이전 
 3.문제 해결:
 코드나 파일에 중요한 업데이트나 버그 수정이 있는 경우, 캐시를 즉시 무효화하여 문제가 빠르게 해결된 버전을 사용자에게 제공할 수 있습니다.
 
-
+bucket 웹 사이트 주소: http://mh0223bucket.s3-website-us-east-1.amazonaws.com
+cloudfront 웹 사이트 주소: https://d2jtxqe6gz4grz.cloudfront.net
