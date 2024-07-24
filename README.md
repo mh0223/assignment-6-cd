@@ -17,7 +17,8 @@
 -  **모니터링 및 알림 설정**: 배포 후 성능을 모니터링하고 이슈 발생 시 알림을 받을 수 있도록 설정합니다.
 
 ## 🛠 GITHUB ACTIONS + AWS
-![Blank diagram](https://github.com/user-attachments/assets/b4dd162c-5cc7-4ba7-ab45-73bc25688196)
+![Blank diagram](https://github.com/user-attachments/assets/ea6d499a-5310-4665-9a57-2fff3c9f0427)
+
 
 1. Next.js 프로젝트를 만듭니다.
 2. GitHub에 새로운 레포지토리를 만들어, 만들었던 Next.js 프로젝트와 연동합니다.
